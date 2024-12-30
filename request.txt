@@ -1,0 +1,6 @@
+numpy
+nltk
+lime
+scikit-learn
+joblib
+pytest
